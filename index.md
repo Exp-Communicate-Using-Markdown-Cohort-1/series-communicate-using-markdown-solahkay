@@ -5,3 +5,7 @@
 ```py
 print("Hello World")
 ```
+
+- [x] Learning Java
+- [ ] Outline my portfolio
+- [x] Learning Database
